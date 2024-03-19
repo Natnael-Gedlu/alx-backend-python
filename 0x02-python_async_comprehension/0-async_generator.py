@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Module contains an asynchronous function that
 yields a random float number between 0-10 for
